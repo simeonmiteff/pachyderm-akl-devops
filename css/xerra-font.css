@@ -1,0 +1,34 @@
+@font-face {                                                                
+    font-style: normal;                                                     
+    font-weight: normal;                                                    
+    font-family: SuisseIntl;                                                
+    src: url("../fonts/SuisseIntl-Regular.otf") format("opentype");         
+}                                                                           
+                                                                            
+@font-face {                                                                
+    font-style: normal;                                                     
+    font-weight: bold;                                                      
+    font-family: SuisseIntl;                                                
+    src: url("../fonts/SuisseIntl-Bold.otf") format("opentype");            
+}                                                                           
+                                                                            
+@font-face {                                                                
+    font-style: italic;                                                     
+    font-weight: normal;                                                    
+    font-family: SuisseIntl;                                                
+    src: url("../fonts/SuisseIntl-RegularItalic.otf") format("opentype");   
+}                                                                           
+                                                                            
+@font-face {                                                                
+    font-style: italic;                                                     
+    font-weight: bold;                                                      
+    font-family: SuisseIntl;                                                
+    src: url("../fonts/SuisseIntl-BoldItalic.otf") format("opentype");      
+}
+
+@font-face {                                                                
+    font-style: normal;                                                     
+    font-weight: normal;                                                      
+    font-family: SuisseIntlBook;                                                
+    src: url("../fonts/SuisseIntl-Book.otf") format("opentype");      
+}
